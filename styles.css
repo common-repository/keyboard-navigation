@@ -1,0 +1,53 @@
+td.field {
+  font-weight: bold;
+  padding-right: 10px
+}
+
+div.image-holder {
+  overflow: hidden
+}
+
+div.image-holder div p {
+  margin-top: 0
+}
+
+div.image-holder img {
+  float: left;
+  display: inline;
+  margin-right: 10px;
+}
+
+div#top-holder {
+  overflow: hidden
+}
+
+div#top-holder form {
+  margin-right: 300px
+}
+
+div#top-holder th {
+  padding-left: 0 
+}
+
+div#top-holder form input[type="text"] {
+  width: 100%
+}
+
+div#top-information {
+  float: right;
+  display: inline;
+  width: 270px;
+  border: solid #ddd 1px;
+  padding: 10px;
+  background: #dfe
+}
+
+div#top-holder div p {
+  margin-top: 0
+}
+
+div#top-holder .form-table {
+  clear: none 
+}
+
+.clear { clear: both }
